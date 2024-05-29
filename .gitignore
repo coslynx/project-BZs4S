@@ -1,0 +1,19 @@
+.gitignore:
+
+```
+# Ignore Python byte-compiled files
+*.pyc
+
+# Ignore virtual environment directory
+venv/
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore compiled Python files
+__pycache__/
+
+# Ignore data files
+/data/
+```
